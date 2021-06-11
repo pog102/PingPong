@@ -1,7 +1,7 @@
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include <iostream>
-
+//shota
 // Function to resize window on resize
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 
